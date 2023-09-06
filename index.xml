@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brady Finch</title>
+    <link>https://bpfinch99.github.io/Brady-Finch/</link>
+    <description>Recent content on Brady Finch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bpfinch99.github.io/Brady-Finch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL Project Querying NYC Public School SATs</title>
+      <link>https://bpfinch99.github.io/Brady-Finch/post/project-3/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpfinch99.github.io/Brady-Finch/post/project-3/</guid>
+      <description>SQL-NYC-Public-Schools SQL Project for querying SAT from NYC public schools provided by Datacamp
+Introduction Every year, American high school students take SATs, which are standardized tests intended to measure literacy, math, and writing skills. This project focuses on analyzing the performance of public schools in New York City based on their SAT scores. Understanding school performance is crucial for various stakeholders, including education professionals, researchers, government officials, and parents.
+Data Description The project uses a PostgreSQL database containing one table: schools.</description>
+    </item>
+    
+    <item>
+      <title>Web Scraping Apartments</title>
+      <link>https://bpfinch99.github.io/Brady-Finch/post/project-2/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpfinch99.github.io/Brady-Finch/post/project-2/</guid>
+      <description>If you have not read my about page (I encourage you to do so and reach out), I wanted a tool that could grab apartments from a certain city (in my case Dallas) with my specifications. I wanted to then be able to see them on the map and possibly further do some analysis on the market within different cities.
+Getting Started: The code begins by setting up the necessary tools to interact with websites and gather data.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Customer Churn: A Machine Learning Approach</title>
+      <link>https://bpfinch99.github.io/Brady-Finch/post/project-1/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpfinch99.github.io/Brady-Finch/post/project-1/</guid>
+      <description>A Machine Learning Approach to Predicting Customer Churn In this project, I aim to predict whether a customer will churn, which means they&amp;rsquo;ll stop using a service provided by a company (such as canceling a subscription).
+Problem Definition The central question of this project is: Can we predict whether a customer will churn? The goal is to create a model that can accurately identify customers who are likely to churn. This way, the company can take preventive actions to retain those customers.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://bpfinch99.github.io/Brady-Finch/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpfinch99.github.io/Brady-Finch/about/</guid>
+      <description>I want to welcome you to and thank you for visiting my data science portfolio! As I mentioned, I am currently pursuing my master&amp;rsquo;s degree in Data Science and Engineering with a concentration in Statistics, scheduled to graduate in December of 2023.
+Throughout my academic career and professional experiences, I have gained a strong understanding of Python, R, Power BI, and SQL. I also have experience working directly with a VP of Finance of a large industrial distribution company.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://bpfinch99.github.io/Brady-Finch/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpfinch99.github.io/Brady-Finch/contact/</guid>
+      <description> Feel free to follow or reach out! LinkedIn: https://www.linkedin.com/in/bradyfinch/ Email: bpfinch99@gmail.com Github: https://github.com/bpfinch99 </description>
+    </item>
+    
+  </channel>
+</rss>
